@@ -1,0 +1,58 @@
+d:\Computer Science\Blazor Introduction\ToDoList\ToDoList\bin\Debug\net8.0\appsettings.Development.json
+d:\Computer Science\Blazor Introduction\ToDoList\ToDoList\bin\Debug\net8.0\appsettings.json
+d:\Computer Science\Blazor Introduction\ToDoList\ToDoList\bin\Debug\net8.0\ToDoList.staticwebassets.runtime.json
+d:\Computer Science\Blazor Introduction\ToDoList\ToDoList\bin\Debug\net8.0\ToDoList.exe
+d:\Computer Science\Blazor Introduction\ToDoList\ToDoList\bin\Debug\net8.0\ToDoList.deps.json
+d:\Computer Science\Blazor Introduction\ToDoList\ToDoList\bin\Debug\net8.0\ToDoList.runtimeconfig.json
+d:\Computer Science\Blazor Introduction\ToDoList\ToDoList\bin\Debug\net8.0\ToDoList.dll
+d:\Computer Science\Blazor Introduction\ToDoList\ToDoList\bin\Debug\net8.0\ToDoList.pdb
+d:\Computer Science\Blazor Introduction\ToDoList\ToDoList\obj\Debug\net8.0\ToDoList.GeneratedMSBuildEditorConfig.editorconfig
+d:\Computer Science\Blazor Introduction\ToDoList\ToDoList\obj\Debug\net8.0\ToDoList.AssemblyInfoInputs.cache
+d:\Computer Science\Blazor Introduction\ToDoList\ToDoList\obj\Debug\net8.0\ToDoList.AssemblyInfo.cs
+d:\Computer Science\Blazor Introduction\ToDoList\ToDoList\obj\Debug\net8.0\ToDoList.csproj.CoreCompileInputs.cache
+d:\Computer Science\Blazor Introduction\ToDoList\ToDoList\obj\Debug\net8.0\ToDoList.MvcApplicationPartsAssemblyInfo.cache
+d:\Computer Science\Blazor Introduction\ToDoList\ToDoList\obj\Debug\net8.0\staticwebassets.build.json
+d:\Computer Science\Blazor Introduction\ToDoList\ToDoList\obj\Debug\net8.0\staticwebassets.development.json
+d:\Computer Science\Blazor Introduction\ToDoList\ToDoList\obj\Debug\net8.0\staticwebassets\msbuild.ToDoList.Microsoft.AspNetCore.StaticWebAssets.props
+d:\Computer Science\Blazor Introduction\ToDoList\ToDoList\obj\Debug\net8.0\staticwebassets\msbuild.build.ToDoList.props
+d:\Computer Science\Blazor Introduction\ToDoList\ToDoList\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ToDoList.props
+d:\Computer Science\Blazor Introduction\ToDoList\ToDoList\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ToDoList.props
+d:\Computer Science\Blazor Introduction\ToDoList\ToDoList\obj\Debug\net8.0\staticwebassets.pack.json
+d:\Computer Science\Blazor Introduction\ToDoList\ToDoList\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+d:\Computer Science\Blazor Introduction\ToDoList\ToDoList\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+d:\Computer Science\Blazor Introduction\ToDoList\ToDoList\obj\Debug\net8.0\scopedcss\bundle\ToDoList.styles.css
+d:\Computer Science\Blazor Introduction\ToDoList\ToDoList\obj\Debug\net8.0\scopedcss\projectbundle\ToDoList.bundle.scp.css
+d:\Computer Science\Blazor Introduction\ToDoList\ToDoList\obj\Debug\net8.0\ToDoList.dll
+d:\Computer Science\Blazor Introduction\ToDoList\ToDoList\obj\Debug\net8.0\refint\ToDoList.dll
+d:\Computer Science\Blazor Introduction\ToDoList\ToDoList\obj\Debug\net8.0\ToDoList.pdb
+d:\Computer Science\Blazor Introduction\ToDoList\ToDoList\obj\Debug\net8.0\ToDoList.genruntimeconfig.cache
+d:\Computer Science\Blazor Introduction\ToDoList\ToDoList\obj\Debug\net8.0\ref\ToDoList.dll
+D:\Github (OVERFLOW)\WebProjectsBlazor\ToDoList\ToDoList\bin\Debug\net8.0\appsettings.Development.json
+D:\Github (OVERFLOW)\WebProjectsBlazor\ToDoList\ToDoList\bin\Debug\net8.0\appsettings.json
+D:\Github (OVERFLOW)\WebProjectsBlazor\ToDoList\ToDoList\bin\Debug\net8.0\ToDoList.staticwebassets.runtime.json
+D:\Github (OVERFLOW)\WebProjectsBlazor\ToDoList\ToDoList\bin\Debug\net8.0\ToDoList.exe
+D:\Github (OVERFLOW)\WebProjectsBlazor\ToDoList\ToDoList\bin\Debug\net8.0\ToDoList.deps.json
+D:\Github (OVERFLOW)\WebProjectsBlazor\ToDoList\ToDoList\bin\Debug\net8.0\ToDoList.runtimeconfig.json
+D:\Github (OVERFLOW)\WebProjectsBlazor\ToDoList\ToDoList\bin\Debug\net8.0\ToDoList.dll
+D:\Github (OVERFLOW)\WebProjectsBlazor\ToDoList\ToDoList\bin\Debug\net8.0\ToDoList.pdb
+D:\Github (OVERFLOW)\WebProjectsBlazor\ToDoList\ToDoList\obj\Debug\net8.0\ToDoList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github (OVERFLOW)\WebProjectsBlazor\ToDoList\ToDoList\obj\Debug\net8.0\ToDoList.AssemblyInfoInputs.cache
+D:\Github (OVERFLOW)\WebProjectsBlazor\ToDoList\ToDoList\obj\Debug\net8.0\ToDoList.AssemblyInfo.cs
+D:\Github (OVERFLOW)\WebProjectsBlazor\ToDoList\ToDoList\obj\Debug\net8.0\ToDoList.csproj.CoreCompileInputs.cache
+D:\Github (OVERFLOW)\WebProjectsBlazor\ToDoList\ToDoList\obj\Debug\net8.0\ToDoList.MvcApplicationPartsAssemblyInfo.cache
+D:\Github (OVERFLOW)\WebProjectsBlazor\ToDoList\ToDoList\obj\Debug\net8.0\staticwebassets.build.json
+D:\Github (OVERFLOW)\WebProjectsBlazor\ToDoList\ToDoList\obj\Debug\net8.0\staticwebassets.development.json
+D:\Github (OVERFLOW)\WebProjectsBlazor\ToDoList\ToDoList\obj\Debug\net8.0\staticwebassets\msbuild.ToDoList.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Github (OVERFLOW)\WebProjectsBlazor\ToDoList\ToDoList\obj\Debug\net8.0\staticwebassets\msbuild.build.ToDoList.props
+D:\Github (OVERFLOW)\WebProjectsBlazor\ToDoList\ToDoList\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ToDoList.props
+D:\Github (OVERFLOW)\WebProjectsBlazor\ToDoList\ToDoList\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ToDoList.props
+D:\Github (OVERFLOW)\WebProjectsBlazor\ToDoList\ToDoList\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Github (OVERFLOW)\WebProjectsBlazor\ToDoList\ToDoList\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+D:\Github (OVERFLOW)\WebProjectsBlazor\ToDoList\ToDoList\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+D:\Github (OVERFLOW)\WebProjectsBlazor\ToDoList\ToDoList\obj\Debug\net8.0\scopedcss\bundle\ToDoList.styles.css
+D:\Github (OVERFLOW)\WebProjectsBlazor\ToDoList\ToDoList\obj\Debug\net8.0\scopedcss\projectbundle\ToDoList.bundle.scp.css
+D:\Github (OVERFLOW)\WebProjectsBlazor\ToDoList\ToDoList\obj\Debug\net8.0\ToDoList.dll
+D:\Github (OVERFLOW)\WebProjectsBlazor\ToDoList\ToDoList\obj\Debug\net8.0\refint\ToDoList.dll
+D:\Github (OVERFLOW)\WebProjectsBlazor\ToDoList\ToDoList\obj\Debug\net8.0\ToDoList.pdb
+D:\Github (OVERFLOW)\WebProjectsBlazor\ToDoList\ToDoList\obj\Debug\net8.0\ToDoList.genruntimeconfig.cache
+D:\Github (OVERFLOW)\WebProjectsBlazor\ToDoList\ToDoList\obj\Debug\net8.0\ref\ToDoList.dll

@@ -1,0 +1,40 @@
+@page "/calculator"
+@rendermode InteractiveServer
+
+<PageTitle>Calculator</PageTitle>
+
+<h1>Calculator</h1>
+
+<input @bind="numEntryA" />
+<input @bind="numEntryB" />
+<button @onclick="Addition">Addition</button>
+<button @onclick="Subtraction">Subtract</button>
+<button @onclick="Multiplication">Multiply</button>
+<button @onclick="Division">Divide</button>
+<p></p>
+<h1>= @numCalc</h1>
+
+
+
+
+@code {
+    float numEntryA = 0;
+    float numEntryB = 0;
+
+    float numCalc = 0;
+
+    void Addition(){
+        numCalc = numEntryA + numEntryB;
+    }
+
+    void Subtraction(){
+        numCalc = numEntryA - numEntryB;
+    }
+    void Multiplication(){
+        numCalc = numEntryA * numEntryB;
+    }
+
+    void Division(){
+        numCalc = numEntryA / numEntryB;
+    }
+}
