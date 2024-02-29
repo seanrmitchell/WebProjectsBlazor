@@ -56,3 +56,4 @@ D:\Github (OVERFLOW)\WebProjectsBlazor\ToDoList\ToDoList\obj\Debug\net8.0\refint
 D:\Github (OVERFLOW)\WebProjectsBlazor\ToDoList\ToDoList\obj\Debug\net8.0\ToDoList.pdb
 D:\Github (OVERFLOW)\WebProjectsBlazor\ToDoList\ToDoList\obj\Debug\net8.0\ToDoList.genruntimeconfig.cache
 D:\Github (OVERFLOW)\WebProjectsBlazor\ToDoList\ToDoList\obj\Debug\net8.0\ref\ToDoList.dll
+D:\Github (OVERFLOW)\WebProjectsBlazor\ToDoList\ToDoList\obj\Debug\net8.0\ToDoList.sourcelink.json

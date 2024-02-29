@@ -1,0 +1,55 @@
+@page "/tempconverter"
+@rendermode InteractiveServer
+
+<PageTitle>Temperature Conversion</PageTitle>
+<h1>Temperature Conversion</h1>
+
+<input @bind="tempNum" />
+
+<select @bind="tempChoice">
+    <option value="Celsius">Celsius</option>
+    <option value="Fahrenheit">Fahrenheit</option>
+</select>
+<br><br>
+
+<button @onclick="TempConvertDecision">Convert</button>
+
+<h1>= @tempOutput</h1>
+
+@code {
+
+    float tempNum;
+    string tempChoice = "";
+    string tempOutput = "";
+
+    void TempConvertDecision(){
+        if (tempChoice == "Celsius"){
+            CelsiusToFahrenheat();
+        }
+        else if (tempChoice == "Fahrenheit"){
+            FahrenheitToCelsius();
+        }
+    }
+
+    void FahrenheitToCelsius (){
+        double x = Math.Round((tempNum - 32) * (0.55556), 2);
+        tempOutput = x + " C";
+    }
+
+    void CelsiusToFahrenheat (){
+        double x = Math.Round((tempNum * 1.8) + 32, 2);
+        tempOutput = x + " F";
+    }
+
+    void CelsiusToKelvin(){
+        double x = tempNum + 273.15;
+        tempOutput = x + " K";
+    }
+
+    void FahrenheitToKelvin(){
+        double x = Math.Round((tempNum - 32) * (0.55556f), 2) + 273.15;
+        tempOutput = x + " K";
+    }
+
+
+}
